@@ -1,0 +1,12 @@
+pandas==2.2.*
+transformers==4.43.*
+ragas==0.1.*
+pypdf==4.3.*
+python-dotenv==1.0.*
+langchain==0.2.*
+unstructured==0.13.2
+unstructured-client==0.18.0
+unstructured-inference==0.7.25
+unstructured.pytesseract==0.3.12
+rank-bm25==0.2.2
+chromadb

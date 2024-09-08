@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: python-rag
+Version: 1.0.0
+Author: lodgify.com
+Author-email: sohravb@lodgify.com, denis.ergashbaev@lodgify.com
+Provides-Extra: test

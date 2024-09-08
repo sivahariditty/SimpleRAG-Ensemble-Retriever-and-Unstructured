@@ -1,0 +1,11 @@
+wheel
+pandas==2.2.*
+transformers==4.43.*
+ragas==0.1.*
+pypdf==4.3.*
+python-dotenv==1.0.*
+langchain==0.2.*
+
+[test]
+pytest
+pytest-timeout
